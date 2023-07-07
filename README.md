@@ -1,5 +1,7 @@
+![Codıng](https://github.com/bilalguney14/bilalguney14/assets/124817726/9f0ae46d-0fce-49c4-a544-8c10ccacaaf5)
+
 # :dizzy: About Me:
-                                                Hi , I am Bilal <br><br>
+                                                Hi, I am Bilal
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilal-g%C3%BCney-2525a6236/)
 # :computer: Tech Stack:
